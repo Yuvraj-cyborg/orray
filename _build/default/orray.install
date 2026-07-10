@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/orray/META"
-  "_build/install/default/lib/orray/dune-package"
-  "_build/install/default/lib/orray/opam"
-]
-bin: [
-  "_build/install/default/bin/orray"
-]
